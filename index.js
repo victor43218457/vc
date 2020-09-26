@@ -1,7 +1,6 @@
 /*
 * HCDrill v1.0.2 - Telegram version
-* Coded by PANCHO7532 - P7COMunications LLC
-* Copyright (c) HCTools Group - 2020
+*by VICTOR-SERVER
 *
 * This program comes with a LICENSE file that you must read before redistributing or modifying this code.
 */
