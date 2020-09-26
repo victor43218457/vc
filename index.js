@@ -131,7 +131,7 @@ bot.on("message", function(message) {
         if(!!message.caption && message.caption.indexOf("json") != -1) {
             response = JSON.stringify(decryptedContent);
         }
-        response += "\r\n\r\nSatisfied with the result? Follow us!\r\n\u{1F310} BOT CHANNEL: @hctoolschannel\r\n\u{1F310} BOT GROUP: @hctools\r\n\u{1F4BB} SOURCE CODE: https://github.com/hctools/hcdrill-tg";
+        response += "GRACIAS POR USAR EL DESEPCRIPTOR";
         if(response.length > 4096) {
             if(response.length < 8192) {
                 //it's under THAT two message limit
